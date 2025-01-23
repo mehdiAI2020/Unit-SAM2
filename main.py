@@ -10,6 +10,7 @@ import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms
 from PIL import Image
+print(torch.__version__)
 
 # ----------------------------
 #        CONFIG
